@@ -1,10 +1,10 @@
-# *alx-higher_level_programming - ALX School of Programming*
+# *alx-higher_level_programming*
 
-*INTRODUCTION.*
+*INTRODUCTION*
 
 Entering the exciting world of High Level Programming, where we experience strong
  abstraction hence shorter programs. What's even more exciting is the use of an
- interpretor .
+ interpretor.
 
  This repository contains programs written in Python, C and Shell.
 
